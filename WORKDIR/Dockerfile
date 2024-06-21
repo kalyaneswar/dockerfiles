@@ -1,3 +1,3 @@
 FROM almalinux:9
 WORKDIR /tmp
-RUN pwd
+RUN mkdir test_dir
